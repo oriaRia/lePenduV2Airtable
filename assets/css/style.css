@@ -25,7 +25,7 @@ img.pendu {
 
 #mot td {
 	padding:10px;
-	background-color:#ebe18e;
+	background-color:#789ed6;
 	border:2px inset black;
 	width:30px;
 	height:30px;
@@ -55,13 +55,8 @@ img.pendu {
 	cursor:pointer;
 }
 
-a.lien{
-	color: rgb(60, 148, 219)172, 102);
-	text-decoration:none;
-	font-size:20px;
-}
 
-a.lien:hover{
+a.lien:hover {
 	color: rgb(125, 214, 125);
 	font-weight:bold;
 	text-decoration:underline;
